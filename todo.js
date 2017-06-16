@@ -139,7 +139,8 @@ class App extends React.Component {
       </div>
     )
   }
-} //end class
+} 
+//=========================//END CLASS//===================//
 
 class List extends React.Component{
 
@@ -159,8 +160,8 @@ class List extends React.Component{
       </ul>
     )
   }
-} //end class
-
+}
+//=========================//END CLASS//===================//
 
 class ListItem extends React.Component {
   constructor(props){
@@ -265,6 +266,6 @@ class ListItem extends React.Component {
     )
   }
 }
-
+//=========================//END CLASS//===================//
 
 ReactDOM.render(<App/>,document.getElementById('root'));
