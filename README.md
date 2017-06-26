@@ -1,4 +1,5 @@
-# React-TODO - Credits to Alex Russell for support
+# React-TODO 
+- Credits to Alex Russell for support
 Me creating a todo app without online tutorials
 
 
