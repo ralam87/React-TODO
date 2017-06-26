@@ -1,6 +1,8 @@
 # React-TODO 
-- Credits to Alex Russell for support
 Me creating a todo app without online tutorials
+
+- Credits to Alex Russell for support
+
 
 
 Used https://www.npmjs.com/package/pushstate-server 
